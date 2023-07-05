@@ -4,6 +4,7 @@ TAFE Introductory Programming Techniques
 simple login program with a menu of options.
 
 Functionalities/specifications:
+
 Login – for users who have previously registered. Username and password to be checked for validity.  
 Register – create a new user account. 
 Passwords – new users given the option to enter their own password or generate one. 
